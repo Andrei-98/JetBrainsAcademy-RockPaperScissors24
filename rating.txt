@@ -1,0 +1,4 @@
+Anna 450
+Geo 20
+Kappa 20
+Kep 100
