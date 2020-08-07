@@ -4,8 +4,6 @@ import random
 class RockPaperScissors:
 
     def __init__(self):
-        """this could CAN be shortened every thing after 8 steps beats the thing
-        you picked until the thing u picked look into it"""
         self.game = ("rock", "paper", "scissors")
         self.user = None
         self.user_game = None
